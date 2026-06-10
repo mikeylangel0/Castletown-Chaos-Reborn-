@@ -1,0 +1,14 @@
+Swimming Pool -123 92 -181
+Washroom -158 83 -209
+Airship Cockpit -93 73 -210
+The Arena -84 61 -211
+Dragons Tower -174 148 -222
+Desert Ruins -8 90 -229
+Airship Roof -81 171 -168
+Guest Tower -155 129 -235
+Bones Tower -163 121 -205
+Airship Cargo Tower -83 129 -148 
+Boat -148 81 -127
+Small Airship -96 124 -250
+The Garden -155 71 -209
+The Crypt -209 70 -205
