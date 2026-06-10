@@ -1,4 +1,4 @@
-# Castletown-Chaos-Reborn-
+# Castletown Chaos: Reborn!
 A 100% Vanilla TF2 Inspired Capture the Flag Map
 
 13 years ago my brother, Suduski, and I created a Bukkit capture the flag map: LINK﻿
